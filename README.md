@@ -144,7 +144,8 @@ Analyze customer behavior and spending patterns.
 
 # 📌 PAGE 3 — Transaction Failure & Risk Analysis
 
-![Uploading Transaction Failure & Risk.png…]()
+<img width="600" height="400" alt="Transaction Failure   Risk" src="https://github.com/user-attachments/assets/40b6bc21-407c-4c59-97b1-bb851f581b3a" />
+
 
 
 ### Objective:
