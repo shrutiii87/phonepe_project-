@@ -245,19 +245,19 @@ DIVIDE(
 
 # 📈 Dashboard Insights
 
-✔ Analyzed **500 users and 2000 transactions**
+* ✔ Analyzed **500 users and 2000 transactions**
 
-✔ Achieved an overall transaction success rate of **88.85%**
+* ✔ Achieved an overall transaction success rate of **88.85%**
 
-✔ Identified major transaction failure reasons affecting payment success
+* ✔ Identified major transaction failure reasons affecting payment success
 
-✔ Compared customer preferences across different payment methods
+* ✔ Compared customer preferences across different payment methods
 
-✔ Analyzed spending behavior across multiple categories
+* ✔ Analyzed spending behavior across multiple categories
 
-✔ Identified high-performing cities and states
+* ✔ Identified high-performing cities and states
 
-✔ Evaluated customer segments based on user type and age groups
+* ✔ Evaluated customer segments based on user type and age groups
 
 ---
 
@@ -328,16 +328,16 @@ Refresh the dataset and explore interactive dashboards.
 
 # ✅ Project Checklist
 
-✔ Dataset Preparation
-✔ SQL Analysis
-✔ Data Modeling
-✔ DAX Measures
-✔ KPI Development
-✔ Interactive Dashboard
-✔ Customer Analytics
-✔ Transaction Analysis
-✔ Failure Analysis
-✔ Business Insights
+* ✔ Dataset Preparation
+* ✔ SQL Analysis
+* ✔ Data Modeling
+* ✔ DAX Measures
+* ✔ KPI Development
+* ✔ Interactive Dashboard
+* ✔ Customer Analytics
+* ✔ Transaction Analysis
+* ✔ Failure Analysis
+* ✔ Business Insights
 
 ---
 
