@@ -67,14 +67,14 @@ The dashboard contains **3 interactive pages**:
 
 # 📌 HOME PAGE  - PHONEPE 
 
-<img width="482" height="272" alt="Home Page" src="https://github.com/user-attachments/assets/ad365c67-6a58-4ac3-8fc8-513640d5655b" />
+<img width="800" height="400" alt="Home Page" src="https://github.com/user-attachments/assets/ad365c67-6a58-4ac3-8fc8-513640d5655b" />
 
 
 ---
 
 # 📌 PAGE 1 — Executive Payment Overview
 
-<img width="480" height="271" alt="Executive Payment overview" src="https://github.com/user-attachments/assets/bcc97634-6a1c-42d5-871c-50282b8eda6e" />
+<img width="800" height="400" alt="Executive Payment overview" src="https://github.com/user-attachments/assets/bcc97634-6a1c-42d5-871c-50282b8eda6e" />
 
 ### Objective:
 
@@ -109,7 +109,7 @@ Provide an overall view of PhonePe transaction performance.
 
 # 📌 PAGE 2 — Customer & Spending Insights
 
-<img width="480" height="270" alt="Customer   Merchnat Insights" src="https://github.com/user-attachments/assets/166208e4-b711-489a-af67-2f3a9da754fe" />
+<img width="800" height="400" alt="Customer   Merchnat Insights" src="https://github.com/user-attachments/assets/166208e4-b711-489a-af67-2f3a9da754fe" />
 
 
 ### Objective:
